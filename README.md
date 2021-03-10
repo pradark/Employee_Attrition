@@ -12,4 +12,4 @@ There are 3 data tables:
 2.	PerformanceReview.csv – employees' yearly performance reviews
 3.	Survey.csv – employees' survey responses regarding satisfaction and work/life balance
 
-The embedded file below shows the column labels and descriptions of the data contained in each column.
+The data dictionary file shows the column labels and descriptions of the data contained in each column.
